@@ -2,7 +2,7 @@
     <h1 align="center">POS System Using Laravel</h1>
 </p>
 
-The project was created while recording video "[Create POS System Using Laravel](https://www.youtube.com/watch?v=Y_NRk0lOOJc&list=PL2hV0q47BY-G9f5xG9Vq-wGjSyy1BekOv)"
+The project was created while recording video "[Create POS System Using Laravel]([https://www.facebook.com/minulhasanrokan])"
 
 ## Installation
 
@@ -49,4 +49,4 @@ Rename or copy `.env.example` file to `.env` 1.`php artisan key:generate` to gen
 
 1. `php artisan serve` or Laravel Homestead
 1. Visit `localhost:8000` in your browser. Email: `admin@gmail.com`, Password: `admin123`.
-1. Online demo: [pos.khmernokor.com](https://pos.minulhasan.com/)
+1. Online demo: [pos.minulhasan.com](https://pos.minulhasan.com/)
